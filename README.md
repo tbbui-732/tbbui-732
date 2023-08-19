@@ -1,8 +1,10 @@
 <h1 align="center">😎</h1>
 
+<h3 align="left"> some stuff abt me </h2>
 - 🎓 4th year cs student at uconn
 - 🔨 knowledgeable in html/css/javascript and python
-- 🌱 i'm currently learning **react.js and node.js**
+- 🌱 i'm currently learning **react.js** and **node.js**
+- 🤔 interested in low level programming and graphics programming 
 
 <h3 align="left">connect with me!!</h3>
 <p align="left">
