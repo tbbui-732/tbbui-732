@@ -1,6 +1,6 @@
 <h1 align="center">😎</h1>
 
-<h3 align="left"> some stuff abt me </h2>
+<h3 align="left"> some stuff abt me </h3>
 - 🎓 4th year cs student at uconn
 - 🔨 knowledgeable in html/css/javascript and python
 - 🌱 i'm currently learning **react.js** and **node.js**
