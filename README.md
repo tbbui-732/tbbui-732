@@ -7,6 +7,4 @@ Welcome to my profile! I'm deeply passionate about creating interesting graphics
 OpenGL + GLSL + C++
 
 <h2>Future Goals</h2>
-* Modern APIs: Diving into Vulkan and Apple’s Metal for high-performance rendering.
-* Real-Time Rendering Techniques
-* Physically-Based Rendering Techniques
+Implementing real-time and physically-based rendering techniques in modern APIs like Vulkan or Apple's Metal API for high-performance rendering.
