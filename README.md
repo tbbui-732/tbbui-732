@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Thien-Bao Bui
+# 👋 Hi there, I'm Bao!
 
 Welcome to my GitHub! I'm a software engineer with a passion for building, learning, and solving interesting problems. Whether it's developing full-stack applications, diving into rendering engines, or exploring the depths of algorithms, I’m always excited by the opportunity to learn and push boundaries.
 
