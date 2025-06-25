@@ -37,3 +37,18 @@ Welcome to my GitHub! I'm a software engineer with a passion for building, learn
 If you’re into rendering, trading, systems engineering, or just want to geek out about graphics or algorithms — feel free to connect or reach out!
 
 - 🧠 [LinkedIn](https://www.linkedin.com/in/thien-bao-bui/)
+
+---
+
+## Resources
+
+I'm keeping track of some resources that I've found to be quite valuable or am working through. I figure it might be useful for others as well!
+
+- [Performance Analysis and Tuning on Modern CPUs - Denis Bakhvalov](https://book.easyperf.net/perf_book)
+- [Agner Fog's Resources on Optimization](https://www.agner.org/optimize/)
+- [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+- Computer Networking: A Top-Down Approach
+- [Competitive Programmers Handbook](https://cses.fi/book/book.pdf)
+- Quantitative Trading - Ernest Chan
+- Trading and Exchanges - Larry Harris
+- [Elements of Statistical Learning - Trevor Hastie, et al.](https://hastie.su.domains/ElemStatLearn/)
